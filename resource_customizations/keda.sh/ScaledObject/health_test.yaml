@@ -19,3 +19,4 @@ tests:
     status: Suspended
     message: "ScaledObject is paused"
   inputPath: testdata/keda-suspended.yaml
+
